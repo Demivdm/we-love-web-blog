@@ -1,6 +1,6 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# We❤Web blog en Notion
 
-
+![Hier]() hou ik de we❤webs bij en nog veel meer. Als je benieuwd bent naar hoe mijn Notion tot stand is gekomen neem dan ![hier]() eens een kijkje.
 
 ## Licentie
 
